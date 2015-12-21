@@ -1,3 +1,10 @@
+# R Programing
+## Programming Assignment Part 2
+
+Note: This repository is a homework submition for the R Programming course.
+
+Underneath are the details of the assignment.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
